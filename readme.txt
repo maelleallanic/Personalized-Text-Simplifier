@@ -1,5 +1,9 @@
 Personalized Text Simplifier
 by Maelle Allanic
+
+Demo Video: https://youtu.be/3uqD-sCg950
+
+
 The program will simplify complex text into a personalized simpler version 
 based on the user’s preferences. 
 The project is designed for people with learning differences so that they
